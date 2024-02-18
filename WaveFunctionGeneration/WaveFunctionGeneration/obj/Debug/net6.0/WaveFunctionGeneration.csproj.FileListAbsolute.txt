@@ -1,0 +1,14 @@
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\bin\Debug\net6.0\WaveFunctionGeneration.exe
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\bin\Debug\net6.0\WaveFunctionGeneration.deps.json
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\bin\Debug\net6.0\WaveFunctionGeneration.runtimeconfig.json
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\bin\Debug\net6.0\WaveFunctionGeneration.dll
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\bin\Debug\net6.0\WaveFunctionGeneration.pdb
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.AssemblyInfoInputs.cache
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.AssemblyInfo.cs
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.csproj.CoreCompileInputs.cache
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.dll
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\refint\WaveFunctionGeneration.dll
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.pdb
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\WaveFunctionGeneration.genruntimeconfig.cache
+C:\Users\200474579\source\repos\WaveFunctionGeneration\WaveFunctionGeneration\obj\Debug\net6.0\ref\WaveFunctionGeneration.dll
